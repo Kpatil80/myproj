@@ -1,5 +1,7 @@
 public class B{
-public static void main(String args[]){
+public void demo(){
+	for(int  i=1; i<=5; i++){
 	Systen.out.println("Just for demo");
-}
+		}
+	}
 }
